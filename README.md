@@ -1,2 +1,3 @@
 # HackerRank
-Solved questions of HackerRank Platform
+# Road to get Star
+All the Solved questions of java on HackerRank Platform
